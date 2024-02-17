@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\bin\Debug\net6.0\4thTask.exe
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\bin\Debug\net6.0\4thTask.deps.json
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\bin\Debug\net6.0\4thTask.runtimeconfig.json
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\bin\Debug\net6.0\4thTask.dll
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\bin\Debug\net6.0\4thTask.pdb
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.dll
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\refint\4thTask.dll
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.pdb
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\4thTask.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Solutions\Task4HW\4thTask\obj\Debug\net6.0\ref\4thTask.dll
